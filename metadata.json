@@ -1,0 +1,8 @@
+{
+  "name": "SCR ",
+  "description": "Asistente automatizado para procesar capturas de pantalla de Field Cloud y generar reportes técnicos de fibra óptica de Totalplay listos para copiar y enviar por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
